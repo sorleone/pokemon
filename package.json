@@ -1,0 +1,17 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "author": "sorleone",
+  "license": "CC-BY-NC-SA-4.0",
+  "scripts": {
+    "start": "node app.js",
+    "debug": "nodemon app.js"
+  },
+  "dependencies": {
+    "@hapi/joi": "^15.0.3",
+    "express": "^4.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
